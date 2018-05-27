@@ -11,3 +11,4 @@
 | closest string | [353](https://www.reddit.com/r/dailyprogrammer/comments/826coe/20180305_challenge_353_easy_closest_string/) | Easy | C++ | 26/5/18 |
 | base 62 | [352](https://www.reddit.com/r/dailyprogrammer/comments/7yyt8e/20180220_challenge_352_easy_making_imgurstyle/) | Easy | C++ | 26/5/18 |
 | kolakoski sequence | [357](https://www.reddit.com/r/dailyprogrammer/comments/8df7sm/20180419_challenge_357_intermediate_kolakoski/) | Intermediate | Ruby | 27/5/18 |
+| possible pies | [355](https://www.reddit.com/r/dailyprogrammer/comments/87rz8c/20180328_challenge_355_intermediate_possible/) | Intermediate | Ruby | 27/5/18 |
