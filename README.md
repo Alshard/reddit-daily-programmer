@@ -12,3 +12,5 @@
 | base 62 | [352](https://www.reddit.com/r/dailyprogrammer/comments/7yyt8e/20180220_challenge_352_easy_making_imgurstyle/) | Easy | C++ | 26/5/18 |
 | kolakoski sequence | [357](https://www.reddit.com/r/dailyprogrammer/comments/8df7sm/20180419_challenge_357_intermediate_kolakoski/) | Intermediate | Ruby | 27/5/18 |
 | possible pies | [355](https://www.reddit.com/r/dailyprogrammer/comments/87rz8c/20180328_challenge_355_intermediate_possible/) | Intermediate | Ruby | 27/5/18 |
+| weekday | [338](https://www.reddit.com/r/dailyprogrammer/comments/79npf9/20171030_challenge_338_easy_what_day_was_it_again/) | Easy | C++ | 28/5/2018 |
+| adding calculator | [331](https://www.reddit.com/r/dailyprogrammer/comments/6ze9z0/20170911_challenge_331_easy_the_adding_calculator/) | Easy | C++ | 28/5/2018 | 
