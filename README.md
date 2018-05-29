@@ -14,3 +14,4 @@
 | possible pies | [355](https://www.reddit.com/r/dailyprogrammer/comments/87rz8c/20180328_challenge_355_intermediate_possible/) | Intermediate | Ruby | 27/5/18 |
 | weekday | [338](https://www.reddit.com/r/dailyprogrammer/comments/79npf9/20171030_challenge_338_easy_what_day_was_it_again/) | Easy | C++ | 28/5/2018 |
 | adding calculator | [331](https://www.reddit.com/r/dailyprogrammer/comments/6ze9z0/20170911_challenge_331_easy_the_adding_calculator/) | Easy | C++ | 28/5/2018 | 
+| balance spending | [350](https://www.reddit.com/r/dailyprogrammer/comments/7vx85p/20180207_challenge_350_intermediate_balancing_my/) | Intermediate | C++ | 28/5/18 | 
