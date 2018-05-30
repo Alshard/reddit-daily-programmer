@@ -15,3 +15,4 @@
 | weekday | [338](https://www.reddit.com/r/dailyprogrammer/comments/79npf9/20171030_challenge_338_easy_what_day_was_it_again/) | Easy | C++ | 28/5/2018 |
 | adding calculator | [331](https://www.reddit.com/r/dailyprogrammer/comments/6ze9z0/20170911_challenge_331_easy_the_adding_calculator/) | Easy | C++ | 28/5/2018 | 
 | balance spending | [350](https://www.reddit.com/r/dailyprogrammer/comments/7vx85p/20180207_challenge_350_intermediate_balancing_my/) | Intermediate | C++ | 28/5/18 | 
+| rabbit population | [348](https://www.reddit.com/r/dailyprogrammer/comments/7s888w/20180122_challenge_348_easy_the_rabbit_problem/) | Easy | C++ | 30/5/18 |
