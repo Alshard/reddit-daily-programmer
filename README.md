@@ -12,9 +12,10 @@
 | base 62 | [352](https://www.reddit.com/r/dailyprogrammer/comments/7yyt8e/20180220_challenge_352_easy_making_imgurstyle/) | Easy | C++ | 26/5/18 |
 | kolakoski sequence | [357](https://www.reddit.com/r/dailyprogrammer/comments/8df7sm/20180419_challenge_357_intermediate_kolakoski/) | Intermediate | Ruby | 27/5/18 |
 | possible pies | [355](https://www.reddit.com/r/dailyprogrammer/comments/87rz8c/20180328_challenge_355_intermediate_possible/) | Intermediate | Ruby | 27/5/18 |
-| weekday | [338](https://www.reddit.com/r/dailyprogrammer/comments/79npf9/20171030_challenge_338_easy_what_day_was_it_again/) | Easy | C++ | 28/5/2018 |
-| adding calculator | [331](https://www.reddit.com/r/dailyprogrammer/comments/6ze9z0/20170911_challenge_331_easy_the_adding_calculator/) | Easy | C++ | 28/5/2018 | 
+| weekday | [338](https://www.reddit.com/r/dailyprogrammer/comments/79npf9/20171030_challenge_338_easy_what_day_was_it_again/) | Easy | C++ | 28/5/18 |
+| adding calculator | [331](https://www.reddit.com/r/dailyprogrammer/comments/6ze9z0/20170911_challenge_331_easy_the_adding_calculator/) | Easy | C++ | 28/5/18 | 
 | balance spending | [350](https://www.reddit.com/r/dailyprogrammer/comments/7vx85p/20180207_challenge_350_intermediate_balancing_my/) | Intermediate | C++ | 28/5/18 | 
 | rabbit population | [348](https://www.reddit.com/r/dailyprogrammer/comments/7s888w/20180122_challenge_348_easy_the_rabbit_problem/) | Easy | C++ | 30/5/18 |
 | lights | [347](https://www.reddit.com/r/dailyprogrammer/comments/7qn07r/20180115_challenge_347_easy_how_long_has_the/) | Easy | Ruby (/u/FunWithCthulhu3) | 31/5/18 |
 | spiral route cipher | [362](https://www.reddit.com/r/dailyprogrammer/comments/8n8tog/20180530_challenge_362_intermediate_route/) | Intermediate | C++ | 1/6/18 |
+| talking clock | [321](https://www.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/) | Easy | C++ | 2/6/18 |
