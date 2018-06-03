@@ -19,3 +19,4 @@
 | lights | [347](https://www.reddit.com/r/dailyprogrammer/comments/7qn07r/20180115_challenge_347_easy_how_long_has_the/) | Easy | Ruby (/u/FunWithCthulhu3) | 31/5/18 |
 | spiral route cipher | [362](https://www.reddit.com/r/dailyprogrammer/comments/8n8tog/20180530_challenge_362_intermediate_route/) | Intermediate | C++ | 1/6/18 |
 | talking clock | [321](https://www.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/) | Easy | C++ | 2/6/18 |
+| baum sweet sequence | [344](https://www.reddit.com/r/dailyprogrammer/comments/7j33iv/20171211_challenge_344_easy_baumsweet_sequence/) | Easy | C++ | 3/6/18 |
