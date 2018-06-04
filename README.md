@@ -21,3 +21,4 @@
 | talking clock | [321](https://www.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/) | Easy | C++ | 2/6/18 |
 | baum sweet sequence | [344](https://www.reddit.com/r/dailyprogrammer/comments/7j33iv/20171211_challenge_344_easy_baumsweet_sequence/) | Easy | C++ | 3/6/18 |
 | bowling frames | [348](https://www.reddit.com/r/dailyprogrammer/comments/7so37o/20180124_challenge_348_intermediate_bowling/) | Intermediate | C++ | 4/6/18 |
+| program permutations | [351](https://www.reddit.com/r/dailyprogrammer/comments/7xkhar/20180214_challenge_351_intermediate_permutation/) | Intetermediate | C++ | 4/6/18 |

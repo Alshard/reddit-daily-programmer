@@ -1,0 +1,5 @@
+
+void updatePos(vector<int>& pos, int index, int newPos)
+void partner(string& programs, vector<int>& pos, int a, int b)
+void exchange(string& programs, vector<int>& pos, int a, int b)
+void spin(string& programs, vector<int>& pos, int moves)
